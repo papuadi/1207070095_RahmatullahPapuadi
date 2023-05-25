@@ -1,0 +1,24 @@
+Historgram echancement
+
+contrast = perbedaan gelap dan terang
+hampir mirip dengan brightness
+
+Histogram equalization bertujuan untuk 
+- meratakan penyebaran nilai histogram hingga derajat keabuan memiliki jumlah pxel yang relatif sama
+-
+kelemahan histogram echancement
+- derajat keabuan terbatas, kurang maksimal karena pembulatan nilai
+
+Image filtering
+- memodifikasi pixel2 didalam citra berdasarkan nilai nilai pixel tetangganya
+
+
+kernel = masking di konvolusi
+
+Image Smoothing 
+- meloloskan komponen frekuensi rendah
+- membatasi komponen frekuensi tinggi
+- tujuannya agar merata
+
+noise terjadi saat pengambilan gambar saat malam hari 
+frekuensi tinggi = cerah, sisanya gelap , dan saat dizoom terlihat titik hitam dan putih
